@@ -1,0 +1,47 @@
+*{
+  /* background-color: black; */
+    /* color: white; */
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 85px;
+}
+.aboutus{
+    width: 100%;
+    height: 50vh;
+    background-color: yellow;
+
+}
+.images
+{
+    width: 100%;
+    height: 50vh;
+    background-color: blue;
+  
+}
+.contactandsocial
+{
+    width: 100%;
+    height: 50vh;
+    background-color: yellow;
+    display: flex;
+}
+.contact
+{
+    width: 50%;
+   
+    background-color:green;
+   
+}
+.social
+{
+    width: 50%;
+   
+    background-color:red;
+}
+
+.all
+{
+    height: fit-content;
+}
